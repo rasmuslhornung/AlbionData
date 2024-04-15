@@ -7,8 +7,8 @@
     "craftingrequirements": {
       "@craftingfocus": "15",
       "craftresource": {
-        "@uniquename0": "T1_FISHCHOPS",
-        "@count0": "10"
+        "@uniquename": "T1_FISHCHOPS",
+        "@count": "10"
       }
     }
   },
@@ -19,10 +19,10 @@
     "@nutrition": "5",
     "craftingrequirements": {
       "@craftingfocus": "4",
-      "craftresource": {
+      "craftresource": [{
         "@uniquename0": "T1_SEAWEED",
         "@count0": "10"
-      }
+      }]
     }
   },
   {
@@ -31,10 +31,10 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "56",
-      "craftresource": {
+      "craftresource": [{
         "@uniquename0": "T1_CARROT",
         "@count0": "16"
-      }
+      }]
     }
   },
   {
@@ -97,10 +97,10 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "168",
-      "craftresource": {
+      "craftresource": [{
         "@uniquename0": "T3_WHEAT",
         "@count0": "48"
-      }
+      }]
     }
   },
   {
@@ -163,10 +163,10 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "504",
-      "craftresource": {
+      "craftresource": [{
         "@uniquename0": "T5_CABBAGE",
         "@count0": "144"
-      }
+      }]
     }
   },
   {
