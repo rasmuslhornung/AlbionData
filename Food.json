@@ -98,8 +98,8 @@
     "craftingrequirements": {
       "@craftingfocus": "168",
       "craftresource": {
-        "@uniquename": "T3_WHEAT",
-        "@count": "48"
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "48"
       }
     }
   },
@@ -164,8 +164,8 @@
     "craftingrequirements": {
       "@craftingfocus": "504",
       "craftresource": {
-        "@uniquename": "T5_CABBAGE",
-        "@count": "144"
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "144"
       }
     }
   },
