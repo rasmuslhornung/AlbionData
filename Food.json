@@ -3,7 +3,6 @@
     "@uniquename": "T1_MEAL_GRILLEDFISH",
     "@weight": "0.3",
     "@nutrition": "20",
-    "@famevalue": "100",
     "craftingrequirements": {
       "@craftingfocus": "15",
       "craftresource": {
@@ -14,7 +13,6 @@
   },
   {
     "@uniquename": "T1_MEAL_SEAWEEDSALAD",
-    "@famevalue": "100",
     "@weight": "0.08",
     "@nutrition": "5",
     "craftingrequirements": {
