@@ -7,8 +7,8 @@
     "craftingrequirements": {
       "@craftingfocus": "15",
       "craftresource": {
-        "@uniquename": "T1_FISHCHOPS",
-        "@count": "10"
+        "@uniquename0": "T1_FISHCHOPS",
+        "@count0": "10"
       }
     }
   },
@@ -20,8 +20,8 @@
     "craftingrequirements": {
       "@craftingfocus": "4",
       "craftresource": {
-        "@uniquename": "T1_SEAWEED",
-        "@count": "10"
+        "@uniquename0": "T1_SEAWEED",
+        "@count0": "10"
       }
     }
   },
@@ -32,8 +32,8 @@
     "craftingrequirements": {
       "@craftingfocus": "56",
       "craftresource": {
-        "@uniquename": "T1_CARROT",
-        "@count": "16"
+        "@uniquename0": "T1_CARROT",
+        "@count0": "16"
       }
     }
   },
