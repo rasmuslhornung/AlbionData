@@ -5337,24 +5337,24 @@
       "@craftingfocus": "6056",
       "craftresource": [
         {
-          "@uniquename3": "T7_FISH_FRESHWATER_AVALON_RARE",
-          "@count3": "1"
+          "@uniquename": "T7_FISH_FRESHWATER_AVALON_RARE",
+          "@count": "1"
         },
         {
-          "@uniquename3": "T7_CORN",
-          "@count3": "6"
+          "@uniquename1": "T7_CORN",
+          "@count1": "6"
         },
         {
-          "@uniquename3": "T7_MULLEIN",
-          "@count3": "6"
+          "@uniquename2": "T7_MULLEIN",
+          "@count2": "6"
         },
         {
           "@uniquename3": "T8_MILK",
           "@count3": "6"
         },
         {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "27"
+          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+          "@count4": "27"
         }
       ]
     }
