@@ -1,0 +1,136 @@
+[
+    {
+        "@uniquename": "T1_MEAL_GRILLEDFISH",
+        "@uisprite": "MEAL_GRILLED_FISH",
+        "@abilitypower": "186",
+        "@slottype": "food",
+        "@consumespell": "FOOD_FISH_GRILLEDFISH_P1",
+        "@shopcategory": "consumables",
+        "@shopsubcategory1": "cooked",
+        "@craftingcategory": "food",
+        "@tier": "1",
+        "@dummyitempower": "100",
+        "@maxstacksize": "999",
+        "@unlockedtocraft": "false",
+        "@unlockedtoequip": "true",
+        "@uicraftsoundstart": "Play_ui_action_craft_food_fry_start",
+        "@uicraftsoundfinish": "Play_ui_action_craft_food_finish",
+        "@weight": "0.3",
+        "@nutrition": "20",
+        "@famevalue": "100",
+        "@descriptionlocatag": "@ITEMS_MEAL_GRILLEDFISH_FISH_DESC",
+        "craftingrequirements": {
+            "@silver": "0",
+            "@amountcrafted": "1",
+            "@forcesinglecraft": "false",
+            "@craftingfocus": "15",
+            "@time": "0.01",
+            "craftresource": {
+                "@uniquename": "T1_FISHCHOPS",
+                "@count": "10"
+            }
+        }
+    },
+    {
+        "@uniquename": "T1_MEAL_SEAWEEDSALAD",
+        "@uisprite": "MEAL_SALAD_SEAWEED",
+        "@abilitypower": "186",
+        "@slottype": "food",
+        "@consumespell": "FOOD_FISH_SEAWEEDSALAD_P1",
+        "@shopcategory": "consumables",
+        "@shopsubcategory1": "cooked",
+        "@craftingcategory": "food",
+        "@tier": "1",
+        "@dummyitempower": "100",
+        "@maxstacksize": "999",
+        "@unlockedtocraft": "false",
+        "@unlockedtoequip": "true",
+        "@famevalue": "100",
+        "@uicraftsoundstart": "Play_ui_action_craft_food_firm_start",
+        "@uicraftsoundfinish": "Play_ui_action_craft_food_finish",
+        "@weight": "0.08",
+        "@nutrition": "5",
+        "@descriptionlocatag": "@ITEMS_MEAL_SEAWEEDSALAD_DESC",
+        "craftingrequirements": {
+            "@silver": "0",
+            "@amountcrafted": "1",
+            "@forcesinglecraft": "false",
+            "@craftingfocus": "4",
+            "@time": "0.01",
+            "craftresource": {
+                "@uniquename": "T1_SEAWEED",
+                "@count": "10"
+            }
+        }
+    },
+    {
+        "@uniquename": "T1_MEAL_SOUP",
+        "@abilitypower": "186",
+        "@slottype": "food",
+        "@consumespell": "FOOD_HEALTH_REG_P1",
+        "@shopcategory": "consumables",
+        "@shopsubcategory1": "cooked",
+        "@craftingcategory": "food",
+        "@tier": "1",
+        "@dummyitempower": "100",
+        "@maxstacksize": "999",
+        "@unlockedtocraft": "false",
+        "@unlockedtoequip": "true",
+        "@uicraftsoundstart": "Play_ui_action_craft_food_fry_start",
+        "@uicraftsoundfinish": "Play_ui_action_craft_food_finish",
+        "@weight": "1.16",
+        "@nutrition": "77",
+        "@descriptionlocatag": "@ITEMS_MEAL_SOUP_DESC",
+        "craftingrequirements": {
+            "@silver": "0",
+            "@amountcrafted": "10",
+            "@forcesinglecraft": "false",
+            "@craftingfocus": "56",
+            "@time": "0.257",
+            "craftresource": {
+                "@uniquename": "T1_CARROT",
+                "@count": "16"
+            }
+        }
+    },
+    {
+        "@uniquename": "T8_MEAL_SANDWICH",
+        "@abilitypower": "186",
+        "@slottype": "food",
+        "@consumespell": "FOOD_BUFF_MAXHP_P5",
+        "@shopcategory": "consumables",
+        "@shopsubcategory1": "cooked",
+        "@craftingcategory": "food",
+        "@tier": "8",
+        "@dummyitempower": "1100",
+        "@maxstacksize": "999",
+        "@unlockedtocraft": "false",
+        "@unlockedtoequip": "true",
+        "@uicraftsoundstart": "Play_ui_action_craft_food_firm_start",
+        "@uicraftsoundfinish": "Play_ui_action_craft_food_finish",
+        "@weight": "7.3",
+        "@nutrition": "730",
+        "@descriptionlocatag": "@ITEMS_MEAL_SANDWICH_DESC",
+        "craftingrequirements": {
+            "@silver": "0",
+            "@amountcrafted": "10",
+            "@forcesinglecraft": "false",
+            "@craftingfocus": "494",
+            "@time": "2.433",
+            "craftresource": [
+                {
+                    "@uniquename": "T4_BREAD",
+                    "@count": "36"
+                },
+                {
+                    "@uniquename": "T8_MEAT",
+                    "@count": "72"
+                },
+                {
+                    "@uniquename": "T8_BUTTER",
+                    "@count": "18"
+                }
+            ]
+        }
+    }
+]
