@@ -6,10 +6,10 @@
     "@famevalue": "100",
     "craftingrequirements": {
       "@craftingfocus": "15",
-      "craftresource": [{
-        "@uniquename0": "T1_FISHCHOPS",
-        "@count0": "10"
-      }]
+      "craftresource": {
+        "@uniquename": "T1_FISHCHOPS",
+        "@count": "10"
+      }
     }
   },
   {
@@ -19,10 +19,10 @@
     "@nutrition": "5",
     "craftingrequirements": {
       "@craftingfocus": "4",
-      "craftresource": [{
-        "@uniquename0": "T1_SEAWEED",
-        "@count0": "10"
-      }]
+      "craftresource": {
+        "@uniquename": "T1_SEAWEED",
+        "@count": "10"
+      }
     }
   },
   {
@@ -31,10 +31,10 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "56",
-      "craftresource": [{
-        "@uniquename0": "T1_CARROT",
-        "@count0": "16"
-      }]
+      "craftresource": {
+        "@uniquename": "T1_CARROT",
+        "@count": "16"
+      }
     }
   },
   {
@@ -43,16 +43,12 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "78",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "16"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL1",
-          "@count1": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "16",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL1",
+        "@count1": "10"
+      }
     }
   },
   {
@@ -61,16 +57,12 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "123",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "16"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL2",
-          "@count1": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "16",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL2",
+        "@count1": "10"
+      }
     }
   },
   {
@@ -79,16 +71,12 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "256",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "16"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL3",
-          "@count1": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "16",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL3",
+        "@count1": "10"
+      }
     }
   },
   {
@@ -97,10 +85,10 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "168",
-      "craftresource": [{
-        "@uniquename0": "T3_WHEAT",
-        "@count0": "48"
-      }]
+      "craftresource": {
+        "@uniquename": "T3_WHEAT",
+        "@count": "48"
+      }
     }
   },
   {
@@ -109,16 +97,12 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "235",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "48"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL1",
-          "@count1": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "48",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL1",
+        "@count1": "30"
+      }
     }
   },
   {
@@ -127,16 +111,12 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "368",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "48"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL2",
-          "@count1": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "48",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL2",
+        "@count1": "30"
+      }
     }
   },
   {
@@ -145,16 +125,12 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "769",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "48"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL3",
-          "@count1": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "48",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL3",
+        "@count1": "30"
+      }
     }
   },
   {
@@ -163,10 +139,10 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "504",
-      "craftresource": [{
-        "@uniquename0": "T5_CABBAGE",
-        "@count0": "144"
-      }]
+      "craftresource": {
+        "@uniquename": "T5_CABBAGE",
+        "@count": "144"
+      }
     }
   },
   {
@@ -175,16 +151,12 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "704",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "144"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL1",
-          "@count1": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "144",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL1",
+        "@count1": "90"
+      }
     }
   },
   {
@@ -193,16 +165,12 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "1105",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "144"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL2",
-          "@count1": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "144",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL2",
+        "@count1": "90"
+      }
     }
   },
   {
@@ -211,16 +179,12 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "2306",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "144"
-        },
-        {
-          "@uniquename1": "T1_FISHSAUCE_LEVEL3",
-          "@count1": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "144",
+        "@uniquename1": "T1_FISHSAUCE_LEVEL3",
+        "@count1": "90"
+      }
     }
   },
   {
@@ -229,16 +193,12 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "2"
+      }
     }
   },
   {
@@ -247,20 +207,14 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "144",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL1",
-          "@count2": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "2",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL1",
+        "@count2": "3"
+      }
     }
   },
   {
@@ -269,20 +223,14 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "278",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL2",
-          "@count2": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "2",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL2",
+        "@count2": "3"
+      }
     }
   },
   {
@@ -291,20 +239,14 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "678",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL3",
-          "@count2": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "2",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL3",
+        "@count2": "3"
+      }
     }
   },
   {
@@ -313,24 +255,16 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "231",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T3_COMFREY",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T3_MEAT",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "2",
+        "@uniquename2": "T3_COMFREY",
+        "@count2": "2",
+        "@uniquename3": "T3_MEAT",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -339,28 +273,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "432",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T3_COMFREY",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T3_MEAT",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "2",
+        "@uniquename2": "T3_COMFREY",
+        "@count2": "2",
+        "@uniquename3": "T3_MEAT",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -369,28 +293,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "832",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T3_COMFREY",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T3_MEAT",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "2",
+        "@uniquename2": "T3_COMFREY",
+        "@count2": "2",
+        "@uniquename3": "T3_MEAT",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -399,28 +313,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "2033",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T3_COMFREY",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T3_MEAT",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "2",
+        "@uniquename2": "T3_COMFREY",
+        "@count2": "2",
+        "@uniquename3": "T3_MEAT",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -429,24 +333,16 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "672",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T5_MEAT",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "6",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "6",
+        "@uniquename3": "T5_MEAT",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -455,28 +351,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "1272",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T5_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "6",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "6",
+        "@uniquename3": "T5_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -485,28 +371,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "2473",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T5_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "6",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "6",
+        "@uniquename3": "T5_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -515,28 +391,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "6076",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T5_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_SWAMP_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "6",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "6",
+        "@uniquename3": "T5_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -545,16 +411,12 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "56",
-      "craftresource": [
-        {
-          "@uniquename0": "T2_BEAN",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "8"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T2_BEAN",
+        "@count0": "8",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "8"
+      }
     }
   },
   {
@@ -563,20 +425,14 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "78",
-      "craftresource": [
-        {
-          "@uniquename0": "T2_BEAN",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL1",
-          "@count2": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T2_BEAN",
+        "@count0": "8",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "8",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL1",
+        "@count2": "10"
+      }
     }
   },
   {
@@ -585,20 +441,14 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "123",
-      "craftresource": [
-        {
-          "@uniquename0": "T2_BEAN",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL2",
-          "@count2": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T2_BEAN",
+        "@count0": "8",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "8",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL2",
+        "@count2": "10"
+      }
     }
   },
   {
@@ -607,20 +457,14 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "256",
-      "craftresource": [
-        {
-          "@uniquename0": "T2_BEAN",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T1_CARROT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL3",
-          "@count2": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T2_BEAN",
+        "@count0": "8",
+        "@uniquename1": "T1_CARROT",
+        "@count1": "8",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL3",
+        "@count2": "10"
+      }
     }
   },
   {
@@ -629,16 +473,12 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "168",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "24"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "24",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "24"
+      }
     }
   },
   {
@@ -647,20 +487,14 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "235",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL1",
-          "@count2": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "24",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "24",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL1",
+        "@count2": "30"
+      }
     }
   },
   {
@@ -669,20 +503,14 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "368",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL2",
-          "@count2": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "24",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "24",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL2",
+        "@count2": "30"
+      }
     }
   },
   {
@@ -691,20 +519,14 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "769",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T3_WHEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL3",
-          "@count2": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "24",
+        "@uniquename1": "T3_WHEAT",
+        "@count1": "24",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL3",
+        "@count2": "30"
+      }
     }
   },
   {
@@ -713,16 +535,12 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "504",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "72"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "72",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "72"
+      }
     }
   },
   {
@@ -731,20 +549,14 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "704",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL1",
-          "@count2": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "72",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "72",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL1",
+        "@count2": "90"
+      }
     }
   },
   {
@@ -753,20 +565,14 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "1105",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL2",
-          "@count2": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "72",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "72",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL2",
+        "@count2": "90"
+      }
     }
   },
   {
@@ -775,20 +581,14 @@
     "@nutrition": "756",
     "craftingrequirements": {
       "@craftingfocus": "2306",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T1_FISHSAUCE_LEVEL3",
-          "@count2": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "72",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "72",
+        "@uniquename2": "T1_FISHSAUCE_LEVEL3",
+        "@count2": "90"
+      }
     }
   },
   {
@@ -797,20 +597,14 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T2_AGARIC",
-          "@count2": "1"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "1",
+        "@uniquename2": "T2_AGARIC",
+        "@count2": "1"
+      }
     }
   },
   {
@@ -819,24 +613,16 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "144",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T2_AGARIC",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "1",
+        "@uniquename2": "T2_AGARIC",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -845,24 +631,16 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "278",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T2_AGARIC",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "1",
+        "@uniquename2": "T2_AGARIC",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -871,24 +649,16 @@
     "@nutrition": "106",
     "craftingrequirements": {
       "@craftingfocus": "678",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T2_AGARIC",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "1",
+        "@uniquename2": "T2_AGARIC",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -897,24 +667,16 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "231",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T4_MEAT",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "2",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "2",
+        "@uniquename3": "T4_MEAT",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -923,28 +685,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "432",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T4_MEAT",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "2",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "2",
+        "@uniquename3": "T4_MEAT",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -953,28 +705,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "832",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T4_MEAT",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "2",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "2",
+        "@uniquename3": "T4_MEAT",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -983,28 +725,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "2033",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T4_MEAT",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "2",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "2",
+        "@uniquename3": "T4_MEAT",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -1013,24 +745,16 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "672",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T6_MEAT",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "6",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "6",
+        "@uniquename3": "T6_MEAT",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -1039,28 +763,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "1272",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T6_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "6",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "6",
+        "@uniquename3": "T6_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -1069,28 +783,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "2473",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T6_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "6",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "6",
+        "@uniquename3": "T6_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -1099,28 +803,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "6076",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T6_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_SALTWATER_ALL_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "6",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "6",
+        "@uniquename3": "T6_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -1129,20 +823,14 @@
     "@nutrition": "78",
     "craftingrequirements": {
       "@craftingfocus": "53",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "2"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T3_MEAT",
-          "@count2": "8"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "2",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "4",
+        "@uniquename2": "T3_MEAT",
+        "@count2": "8"
+      }
     }
   },
   {
@@ -1151,24 +839,16 @@
     "@nutrition": "78",
     "craftingrequirements": {
       "@craftingfocus": "75",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "2"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T3_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "2",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "4",
+        "@uniquename2": "T3_MEAT",
+        "@count2": "8",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -1177,24 +857,16 @@
     "@nutrition": "78",
     "craftingrequirements": {
       "@craftingfocus": "120",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "2"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T3_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "2",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "4",
+        "@uniquename2": "T3_MEAT",
+        "@count2": "8",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -1203,24 +875,16 @@
     "@nutrition": "78",
     "craftingrequirements": {
       "@craftingfocus": "253",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "2"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T3_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "2",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "4",
+        "@uniquename2": "T3_MEAT",
+        "@count2": "8",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -1229,24 +893,16 @@
     "@nutrition": "266",
     "craftingrequirements": {
       "@craftingfocus": "180",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "6"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T5_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T4_MILK",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "6",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "12",
+        "@uniquename2": "T5_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T4_MILK",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -1255,28 +911,18 @@
     "@nutrition": "266",
     "craftingrequirements": {
       "@craftingfocus": "246",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "6"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T5_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T4_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "6",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "12",
+        "@uniquename2": "T5_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T4_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -1285,28 +931,18 @@
     "@nutrition": "266",
     "craftingrequirements": {
       "@craftingfocus": "380",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "6"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T5_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T4_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "6",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "12",
+        "@uniquename2": "T5_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T4_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -1315,28 +951,18 @@
     "@nutrition": "266",
     "craftingrequirements": {
       "@craftingfocus": "780",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "6"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T5_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T4_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "6",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "12",
+        "@uniquename2": "T5_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T4_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -1345,24 +971,16 @@
     "@nutrition": "799",
     "craftingrequirements": {
       "@craftingfocus": "540",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "18"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T7_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "18"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "18",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "36",
+        "@uniquename2": "T7_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T6_MILK",
+        "@count3": "18"
+      }
     }
   },
   {
@@ -1371,28 +989,18 @@
     "@nutrition": "799",
     "craftingrequirements": {
       "@craftingfocus": "739",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "18"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T7_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "18"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "18",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "36",
+        "@uniquename2": "T7_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T6_MILK",
+        "@count3": "18",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -1401,28 +1009,18 @@
     "@nutrition": "799",
     "craftingrequirements": {
       "@craftingfocus": "1140",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "18"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T7_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "18"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "18",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "36",
+        "@uniquename2": "T7_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T6_MILK",
+        "@count3": "18",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -1431,28 +1029,18 @@
     "@nutrition": "799",
     "craftingrequirements": {
       "@craftingfocus": "2341",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "18"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T7_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "18"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "18",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "36",
+        "@uniquename2": "T7_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T6_MILK",
+        "@count3": "18",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -1461,20 +1049,14 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "81",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1"
+      }
     }
   },
   {
@@ -1483,24 +1065,16 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "147",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -1509,24 +1083,16 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "281",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -1535,24 +1101,16 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "681",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_FLOUR",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_FLOUR",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -1561,24 +1119,16 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "225",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -1587,28 +1137,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "425",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -1617,28 +1157,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "825",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -1647,28 +1177,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "2026",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -1677,24 +1197,16 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "672",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -1703,28 +1215,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "1272",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -1733,28 +1235,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "2473",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -1763,28 +1255,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "6076",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -1793,20 +1275,14 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "52",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2"
+      }
     }
   },
   {
@@ -1815,24 +1291,16 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "74",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -1841,24 +1309,16 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "118",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -1867,24 +1327,16 @@
     "@nutrition": "77",
     "craftingrequirements": {
       "@craftingfocus": "252",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_WHEAT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_WHEAT",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -1893,20 +1345,14 @@
     "@nutrition": "230",
     "craftingrequirements": {
       "@craftingfocus": "155",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6"
+      }
     }
   },
   {
@@ -1915,24 +1361,16 @@
     "@nutrition": "230",
     "craftingrequirements": {
       "@craftingfocus": "222",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -1941,24 +1379,16 @@
     "@nutrition": "230",
     "craftingrequirements": {
       "@craftingfocus": "355",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -1967,24 +1397,16 @@
     "@nutrition": "230",
     "craftingrequirements": {
       "@craftingfocus": "755",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -1993,20 +1415,14 @@
     "@nutrition": "690",
     "craftingrequirements": {
       "@craftingfocus": "464",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18"
+      }
     }
   },
   {
@@ -2015,24 +1431,16 @@
     "@nutrition": "690",
     "craftingrequirements": {
       "@craftingfocus": "665",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -2041,24 +1449,16 @@
     "@nutrition": "690",
     "craftingrequirements": {
       "@craftingfocus": "1065",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -2067,24 +1467,16 @@
     "@nutrition": "690",
     "craftingrequirements": {
       "@craftingfocus": "2266",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -2093,20 +1485,14 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1"
+      }
     }
   },
   {
@@ -2115,24 +1501,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "144",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -2141,24 +1519,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "278",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -2167,24 +1537,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "678",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T3_EGG",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -2193,24 +1555,16 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "225",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -2219,28 +1573,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "425",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -2249,28 +1593,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "825",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -2279,28 +1613,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "2026",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T5_EGG",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T5_EGG",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -2309,24 +1633,16 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "672",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -2335,28 +1651,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "1272",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -2365,28 +1671,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "2473",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -2395,28 +1691,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "6076",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T7_MEAT",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_STEPPE_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T7_MEAT",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -2425,24 +1711,16 @@
     "@nutrition": "84",
     "craftingrequirements": {
       "@craftingfocus": "52",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_MILK",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_MILK",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -2451,28 +1729,18 @@
     "@nutrition": "84",
     "craftingrequirements": {
       "@craftingfocus": "74",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_MILK",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_MILK",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -2481,28 +1749,18 @@
     "@nutrition": "84",
     "craftingrequirements": {
       "@craftingfocus": "118",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_MILK",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_MILK",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -2511,28 +1769,18 @@
     "@nutrition": "84",
     "craftingrequirements": {
       "@craftingfocus": "252",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_MILK",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T3_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T3_EGG",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_MILK",
+        "@count0": "4",
+        "@uniquename1": "T3_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T3_EGG",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -2541,24 +1789,16 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "155",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_MILK",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_MILK",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -2567,28 +1807,18 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "222",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_MILK",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_MILK",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -2597,28 +1827,18 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "355",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_MILK",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_MILK",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -2627,28 +1847,18 @@
     "@nutrition": "252",
     "craftingrequirements": {
       "@craftingfocus": "755",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_MILK",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T5_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_MILK",
+        "@count0": "12",
+        "@uniquename1": "T5_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T5_EGG",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -2657,24 +1867,16 @@
     "@nutrition": "755",
     "craftingrequirements": {
       "@craftingfocus": "464",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_MILK",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_MILK",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -2683,28 +1885,18 @@
     "@nutrition": "755",
     "craftingrequirements": {
       "@craftingfocus": "665",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_MILK",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_MILK",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -2713,28 +1905,18 @@
     "@nutrition": "755",
     "craftingrequirements": {
       "@craftingfocus": "1065",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_MILK",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_MILK",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -2743,28 +1925,18 @@
     "@nutrition": "755",
     "craftingrequirements": {
       "@craftingfocus": "2266",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_MILK",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T7_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T5_EGG",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_MILK",
+        "@count0": "36",
+        "@uniquename1": "T7_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T5_EGG",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -2773,20 +1945,14 @@
     "@nutrition": "91",
     "craftingrequirements": {
       "@craftingfocus": "61",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "4",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8"
+      }
     }
   },
   {
@@ -2795,24 +1961,16 @@
     "@nutrition": "91",
     "craftingrequirements": {
       "@craftingfocus": "84",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "4",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -2821,24 +1979,16 @@
     "@nutrition": "91",
     "craftingrequirements": {
       "@craftingfocus": "128",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "4",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -2847,24 +1997,16 @@
     "@nutrition": "91",
     "craftingrequirements": {
       "@craftingfocus": "262",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_TURNIP",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_TURNIP",
+        "@count0": "4",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -2873,20 +2015,14 @@
     "@nutrition": "272",
     "craftingrequirements": {
       "@craftingfocus": "184",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "12",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24"
+      }
     }
   },
   {
@@ -2895,24 +2031,16 @@
     "@nutrition": "272",
     "craftingrequirements": {
       "@craftingfocus": "251",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "12",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -2921,24 +2049,16 @@
     "@nutrition": "272",
     "craftingrequirements": {
       "@craftingfocus": "384",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "12",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -2947,24 +2067,16 @@
     "@nutrition": "272",
     "craftingrequirements": {
       "@craftingfocus": "785",
-      "craftresource": [
-        {
-          "@uniquename0": "T6_POTATO",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T6_POTATO",
+        "@count0": "12",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -2973,20 +2085,14 @@
     "@nutrition": "817",
     "craftingrequirements": {
       "@craftingfocus": "551",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_PUMPKIN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_PUMPKIN",
+        "@count0": "36",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72"
+      }
     }
   },
   {
@@ -2995,24 +2101,16 @@
     "@nutrition": "817",
     "craftingrequirements": {
       "@craftingfocus": "752",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_PUMPKIN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_PUMPKIN",
+        "@count0": "36",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -3021,24 +2119,16 @@
     "@nutrition": "817",
     "craftingrequirements": {
       "@craftingfocus": "1152",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_PUMPKIN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_PUMPKIN",
+        "@count0": "36",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -3047,24 +2137,16 @@
     "@nutrition": "817",
     "craftingrequirements": {
       "@craftingfocus": "2353",
-      "craftresource": [
-        {
-          "@uniquename0": "T8_PUMPKIN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T4_BREAD",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T8_PUMPKIN",
+        "@count0": "36",
+        "@uniquename1": "T4_BREAD",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -3073,20 +2155,14 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "1"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "1"
+      }
     }
   },
   {
@@ -3095,24 +2171,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "144",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -3121,24 +2189,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "278",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -3147,24 +2207,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "678",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BURDOCK",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BURDOCK",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -3173,24 +2225,16 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "225",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -3199,28 +2243,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "425",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -3229,28 +2263,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "825",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -3259,28 +2283,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "2026",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -3289,24 +2303,16 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "652",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -3315,28 +2321,18 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "1253",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -3345,28 +2341,18 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "2454",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -3375,28 +2361,18 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "6056",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_FOREST_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -3405,24 +2381,16 @@
     "@nutrition": "94",
     "craftingrequirements": {
       "@craftingfocus": "58",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "4",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -3431,28 +2399,18 @@
     "@nutrition": "94",
     "craftingrequirements": {
       "@craftingfocus": "81",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "4",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -3461,28 +2419,18 @@
     "@nutrition": "94",
     "craftingrequirements": {
       "@craftingfocus": "125",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "4",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -3491,28 +2439,18 @@
     "@nutrition": "94",
     "craftingrequirements": {
       "@craftingfocus": "259",
-      "craftresource": [
-        {
-          "@uniquename0": "T1_CARROT",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MEAT",
-          "@count2": "8"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T1_CARROT",
+        "@count0": "4",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "4",
+        "@uniquename2": "T4_MEAT",
+        "@count2": "8",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -3521,24 +2459,16 @@
     "@nutrition": "283",
     "craftingrequirements": {
       "@craftingfocus": "176",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -3547,28 +2477,18 @@
     "@nutrition": "283",
     "craftingrequirements": {
       "@craftingfocus": "243",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -3577,28 +2497,18 @@
     "@nutrition": "283",
     "craftingrequirements": {
       "@craftingfocus": "376",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -3607,28 +2517,18 @@
     "@nutrition": "283",
     "craftingrequirements": {
       "@craftingfocus": "777",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_CABBAGE",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MEAT",
-          "@count2": "24"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_CABBAGE",
+        "@count0": "12",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "12",
+        "@uniquename2": "T6_MEAT",
+        "@count2": "24",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -3637,24 +2537,16 @@
     "@nutrition": "850",
     "craftingrequirements": {
       "@craftingfocus": "528",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -3663,28 +2555,18 @@
     "@nutrition": "850",
     "craftingrequirements": {
       "@craftingfocus": "728",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -3693,28 +2575,18 @@
     "@nutrition": "850",
     "craftingrequirements": {
       "@craftingfocus": "1128",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -3723,28 +2595,18 @@
     "@nutrition": "850",
     "craftingrequirements": {
       "@craftingfocus": "2329",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_CORN",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MEAT",
-          "@count2": "72"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_CORN",
+        "@count0": "36",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "36",
+        "@uniquename2": "T8_MEAT",
+        "@count2": "72",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -3753,20 +2615,14 @@
     "@nutrition": "81",
     "craftingrequirements": {
       "@craftingfocus": "55",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2"
+      }
     }
   },
   {
@@ -3775,24 +2631,16 @@
     "@nutrition": "81",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -3801,24 +2649,16 @@
     "@nutrition": "81",
     "craftingrequirements": {
       "@craftingfocus": "122",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -3827,24 +2667,16 @@
     "@nutrition": "81",
     "craftingrequirements": {
       "@craftingfocus": "255",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -3853,20 +2685,14 @@
     "@nutrition": "243",
     "craftingrequirements": {
       "@craftingfocus": "165",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6"
+      }
     }
   },
   {
@@ -3875,24 +2701,16 @@
     "@nutrition": "243",
     "craftingrequirements": {
       "@craftingfocus": "231",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -3901,24 +2719,16 @@
     "@nutrition": "243",
     "craftingrequirements": {
       "@craftingfocus": "365",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -3927,24 +2737,16 @@
     "@nutrition": "243",
     "craftingrequirements": {
       "@craftingfocus": "765",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -3953,20 +2755,14 @@
     "@nutrition": "730",
     "craftingrequirements": {
       "@craftingfocus": "494",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18"
+      }
     }
   },
   {
@@ -3975,24 +2771,16 @@
     "@nutrition": "730",
     "craftingrequirements": {
       "@craftingfocus": "694",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -4001,24 +2789,16 @@
     "@nutrition": "730",
     "craftingrequirements": {
       "@craftingfocus": "1094",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -4027,24 +2807,16 @@
     "@nutrition": "730",
     "craftingrequirements": {
       "@craftingfocus": "2295",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -4053,20 +2825,14 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "81",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "1"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "1"
+      }
     }
   },
   {
@@ -4075,24 +2841,16 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "147",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -4101,24 +2859,16 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "281",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -4127,24 +2877,16 @@
     "@nutrition": "120",
     "craftingrequirements": {
       "@craftingfocus": "681",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T4_TURNIP",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T4_TURNIP",
+        "@count1": "1",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -4153,24 +2895,16 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "231",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_BUTTER",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_BUTTER",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -4179,28 +2913,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "432",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_BUTTER",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_BUTTER",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -4209,28 +2933,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "832",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_BUTTER",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_BUTTER",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -4239,28 +2953,18 @@
     "@nutrition": "345",
     "craftingrequirements": {
       "@craftingfocus": "2033",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T6_POTATO",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T6_FOXGLOVE",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_BUTTER",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T6_POTATO",
+        "@count1": "2",
+        "@uniquename2": "T6_FOXGLOVE",
+        "@count2": "2",
+        "@uniquename3": "T6_BUTTER",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -4269,24 +2973,16 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "672",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_BUTTER",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_BUTTER",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -4295,28 +2991,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "1272",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_BUTTER",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_BUTTER",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -4325,28 +3011,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "2473",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_BUTTER",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_BUTTER",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -4355,28 +3031,18 @@
     "@nutrition": "1002",
     "craftingrequirements": {
       "@craftingfocus": "6076",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T8_PUMPKIN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T8_YARROW",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_BUTTER",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+        "@count0": "1",
+        "@uniquename1": "T8_PUMPKIN",
+        "@count1": "6",
+        "@uniquename2": "T8_YARROW",
+        "@count2": "6",
+        "@uniquename3": "T8_BUTTER",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -4385,24 +3051,16 @@
     "@nutrition": "88",
     "craftingrequirements": {
       "@craftingfocus": "55",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -4411,28 +3069,18 @@
     "@nutrition": "88",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -4441,28 +3089,18 @@
     "@nutrition": "88",
     "craftingrequirements": {
       "@craftingfocus": "122",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -4471,28 +3109,18 @@
     "@nutrition": "88",
     "craftingrequirements": {
       "@craftingfocus": "255",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "4"
-        },
-        {
-          "@uniquename1": "T4_MEAT",
-          "@count1": "8"
-        },
-        {
-          "@uniquename2": "T4_BUTTER",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "10"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "4",
+        "@uniquename1": "T4_MEAT",
+        "@count1": "8",
+        "@uniquename2": "T4_BUTTER",
+        "@count2": "2",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "10",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "10"
+      }
     }
   },
   {
@@ -4501,24 +3129,16 @@
     "@nutrition": "265",
     "craftingrequirements": {
       "@craftingfocus": "165",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -4527,28 +3147,18 @@
     "@nutrition": "265",
     "craftingrequirements": {
       "@craftingfocus": "231",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -4557,28 +3167,18 @@
     "@nutrition": "265",
     "craftingrequirements": {
       "@craftingfocus": "365",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -4587,28 +3187,18 @@
     "@nutrition": "265",
     "craftingrequirements": {
       "@craftingfocus": "765",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "12"
-        },
-        {
-          "@uniquename1": "T6_MEAT",
-          "@count1": "24"
-        },
-        {
-          "@uniquename2": "T6_BUTTER",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "30"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "12",
+        "@uniquename1": "T6_MEAT",
+        "@count1": "24",
+        "@uniquename2": "T6_BUTTER",
+        "@count2": "6",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "30",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "30"
+      }
     }
   },
   {
@@ -4617,24 +3207,16 @@
     "@nutrition": "795",
     "craftingrequirements": {
       "@craftingfocus": "494",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -4643,28 +3225,18 @@
     "@nutrition": "795",
     "craftingrequirements": {
       "@craftingfocus": "694",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -4673,28 +3245,18 @@
     "@nutrition": "795",
     "craftingrequirements": {
       "@craftingfocus": "1094",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -4703,28 +3265,18 @@
     "@nutrition": "795",
     "craftingrequirements": {
       "@craftingfocus": "2295",
-      "craftresource": [
-        {
-          "@uniquename0": "T4_BREAD",
-          "@count0": "36"
-        },
-        {
-          "@uniquename1": "T8_MEAT",
-          "@count1": "72"
-        },
-        {
-          "@uniquename2": "T8_BUTTER",
-          "@count2": "18"
-        },
-        {
-          "@uniquename3": "QUESTITEM_TOKEN_AVALON",
-          "@count3": "90"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T4_BREAD",
+        "@count0": "36",
+        "@uniquename1": "T8_MEAT",
+        "@count1": "72",
+        "@uniquename2": "T8_BUTTER",
+        "@count2": "18",
+        "@uniquename3": "QUESTITEM_TOKEN_AVALON",
+        "@count3": "90",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "90"
+      }
     }
   },
   {
@@ -4733,20 +3285,14 @@
     "@nutrition": "87",
     "craftingrequirements": {
       "@craftingfocus": "58",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_MEAT",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "4"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_MEAT",
+        "@count0": "8",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "4",
+        "@uniquename2": "T4_MILK",
+        "@count2": "4"
+      }
     }
   },
   {
@@ -4755,24 +3301,16 @@
     "@nutrition": "87",
     "craftingrequirements": {
       "@craftingfocus": "81",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_MEAT",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "4"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_MEAT",
+        "@count0": "8",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "4",
+        "@uniquename2": "T4_MILK",
+        "@count2": "4",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -4781,24 +3319,16 @@
     "@nutrition": "87",
     "craftingrequirements": {
       "@craftingfocus": "125",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_MEAT",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "4"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_MEAT",
+        "@count0": "8",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "4",
+        "@uniquename2": "T4_MILK",
+        "@count2": "4",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -4807,24 +3337,16 @@
     "@nutrition": "87",
     "craftingrequirements": {
       "@craftingfocus": "259",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_MEAT",
-          "@count0": "8"
-        },
-        {
-          "@uniquename1": "T2_BEAN",
-          "@count1": "4"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "4"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "10"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_MEAT",
+        "@count0": "8",
+        "@uniquename1": "T2_BEAN",
+        "@count1": "4",
+        "@uniquename2": "T4_MILK",
+        "@count2": "4",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "10"
+      }
     }
   },
   {
@@ -4833,20 +3355,14 @@
     "@nutrition": "262",
     "craftingrequirements": {
       "@craftingfocus": "176",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_MEAT",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MILK",
-          "@count2": "12"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_MEAT",
+        "@count0": "24",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "12",
+        "@uniquename2": "T6_MILK",
+        "@count2": "12"
+      }
     }
   },
   {
@@ -4855,24 +3371,16 @@
     "@nutrition": "262",
     "craftingrequirements": {
       "@craftingfocus": "243",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_MEAT",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MILK",
-          "@count2": "12"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_MEAT",
+        "@count0": "24",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "12",
+        "@uniquename2": "T6_MILK",
+        "@count2": "12",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -4881,24 +3389,16 @@
     "@nutrition": "262",
     "craftingrequirements": {
       "@craftingfocus": "376",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_MEAT",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MILK",
-          "@count2": "12"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_MEAT",
+        "@count0": "24",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "12",
+        "@uniquename2": "T6_MILK",
+        "@count2": "12",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -4907,24 +3407,16 @@
     "@nutrition": "262",
     "craftingrequirements": {
       "@craftingfocus": "777",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_MEAT",
-          "@count0": "24"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "12"
-        },
-        {
-          "@uniquename2": "T6_MILK",
-          "@count2": "12"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "30"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_MEAT",
+        "@count0": "24",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "12",
+        "@uniquename2": "T6_MILK",
+        "@count2": "12",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "30"
+      }
     }
   },
   {
@@ -4933,20 +3425,14 @@
     "@nutrition": "785",
     "craftingrequirements": {
       "@craftingfocus": "528",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_MEAT",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MILK",
-          "@count2": "36"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_MEAT",
+        "@count0": "72",
+        "@uniquename1": "T7_CORN",
+        "@count1": "36",
+        "@uniquename2": "T8_MILK",
+        "@count2": "36"
+      }
     }
   },
   {
@@ -4955,24 +3441,16 @@
     "@nutrition": "785",
     "craftingrequirements": {
       "@craftingfocus": "728",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_MEAT",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MILK",
-          "@count2": "36"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_MEAT",
+        "@count0": "72",
+        "@uniquename1": "T7_CORN",
+        "@count1": "36",
+        "@uniquename2": "T8_MILK",
+        "@count2": "36",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -4981,24 +3459,16 @@
     "@nutrition": "785",
     "craftingrequirements": {
       "@craftingfocus": "1128",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_MEAT",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MILK",
-          "@count2": "36"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_MEAT",
+        "@count0": "72",
+        "@uniquename1": "T7_CORN",
+        "@count1": "36",
+        "@uniquename2": "T8_MILK",
+        "@count2": "36",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -5007,24 +3477,16 @@
     "@nutrition": "785",
     "craftingrequirements": {
       "@craftingfocus": "2329",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_MEAT",
-          "@count0": "72"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "36"
-        },
-        {
-          "@uniquename2": "T8_MILK",
-          "@count2": "36"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "90"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_MEAT",
+        "@count0": "72",
+        "@uniquename1": "T7_CORN",
+        "@count1": "36",
+        "@uniquename2": "T8_MILK",
+        "@count2": "36",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "90"
+      }
     }
   },
   {
@@ -5033,20 +3495,14 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "77",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "1"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T4_MILK",
+        "@count2": "1"
+      }
     }
   },
   {
@@ -5055,24 +3511,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "144",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL1",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T4_MILK",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL1",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -5081,24 +3529,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "278",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL2",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T4_MILK",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL2",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -5107,24 +3547,16 @@
     "@nutrition": "116",
     "craftingrequirements": {
       "@craftingfocus": "678",
-      "craftresource": [
-        {
-          "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T3_COMFREY",
-          "@count1": "1"
-        },
-        {
-          "@uniquename2": "T4_MILK",
-          "@count2": "1"
-        },
-        {
-          "@uniquename3": "T1_FISHSAUCE_LEVEL3",
-          "@count3": "3"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T3_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T3_COMFREY",
+        "@count1": "1",
+        "@uniquename2": "T4_MILK",
+        "@count2": "1",
+        "@uniquename3": "T1_FISHSAUCE_LEVEL3",
+        "@count3": "3"
+      }
     }
   },
   {
@@ -5133,24 +3565,16 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "225",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2"
+      }
     }
   },
   {
@@ -5159,28 +3583,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "425",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -5189,28 +3603,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "825",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -5219,28 +3623,18 @@
     "@nutrition": "337",
     "craftingrequirements": {
       "@craftingfocus": "2026",
-      "craftresource": [
-        {
-          "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T5_CABBAGE",
-          "@count1": "2"
-        },
-        {
-          "@uniquename2": "T5_TEASEL",
-          "@count2": "2"
-        },
-        {
-          "@uniquename3": "T6_MILK",
-          "@count3": "2"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "9"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T5_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T5_CABBAGE",
+        "@count1": "2",
+        "@uniquename2": "T5_TEASEL",
+        "@count2": "2",
+        "@uniquename3": "T6_MILK",
+        "@count3": "2",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "9"
+      }
     }
   },
   {
@@ -5249,24 +3643,16 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "652",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6"
+      }
     }
   },
   {
@@ -5275,28 +3661,18 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "1253",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL1",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL1",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -5305,28 +3681,18 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "2454",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL2",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL2",
+        "@count4": "27"
+      }
     }
   },
   {
@@ -5335,28 +3701,18 @@
     "@nutrition": "978",
     "craftingrequirements": {
       "@craftingfocus": "6056",
-      "craftresource": [
-        {
-          "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
-          "@count0": "1"
-        },
-        {
-          "@uniquename1": "T7_CORN",
-          "@count1": "6"
-        },
-        {
-          "@uniquename2": "T7_MULLEIN",
-          "@count2": "6"
-        },
-        {
-          "@uniquename3": "T8_MILK",
-          "@count3": "6"
-        },
-        {
-          "@uniquename4": "T1_FISHSAUCE_LEVEL3",
-          "@count4": "27"
-        }
-      ]
+      "craftresource": {
+        "@uniquename0": "T7_FISH_FRESHWATER_AVALON_RARE",
+        "@count0": "1",
+        "@uniquename1": "T7_CORN",
+        "@count1": "6",
+        "@uniquename2": "T7_MULLEIN",
+        "@count2": "6",
+        "@uniquename3": "T8_MILK",
+        "@count3": "6",
+        "@uniquename4": "T1_FISHSAUCE_LEVEL3",
+        "@count4": "27"
+      }
     }
   }
 ]
