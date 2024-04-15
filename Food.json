@@ -1,1425 +1,1416 @@
 [
-  {
-    "@uniquename": "T1_MEAL_GRILLEDFISH",
-    "@weight": "0.3",
-    "@nutrition": "20",
-    "@famevalue": "100",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "1",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "15",
-      "@time": "0.01",
-      "craftresource": {
-        "@uniquename": "T1_FISHCHOPS",
-        "@count": "10"
-      }
-    }
-  },
-  {
-    "@uniquename": "T1_MEAL_SEAWEEDSALAD",
-    "@famevalue": "100",
-    "@weight": "0.08",
-    "@nutrition": "5",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "1",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "4",
-      "@time": "0.01",
-      "craftresource": {
-        "@uniquename": "T1_SEAWEED",
-        "@count": "10"
-      }
-    }
-  },
-  {
-    "@uniquename": "T1_MEAL_SOUP",
-    "@weight": "1.16",
-    "@nutrition": "77",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "56",
-      "@time": "0.257",
-      "craftresource": {
-        "@uniquename": "T1_CARROT",
-        "@count": "16"
-      }
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_SOUP",
-    "@weight": "3.15",
-    "@nutrition": "252",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "168",
-      "@time": "0.84",
-      "craftresource": {
-        "@uniquename": "T3_WHEAT",
-        "@count": "48"
-      }
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_SOUP",
-    "@weight": "7.56",
-    "@nutrition": "756",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "504",
-      "@time": "2.52",
-      "craftresource": {
-        "@uniquename": "T5_CABBAGE",
-        "@count": "144"
-      }
-    }
-  },
-  {
-    "@uniquename": "T1_MEAL_SOUP_FISH",
-    "@weight": "1.59",
-    "@nutrition": "106",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "77",
-      "@time": "0.0353",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_FRESHWATER_SWAMP_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T1_CARROT",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_SOUP_FISH",
-    "@weight": "4.31",
-    "@nutrition": "345",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "231",
-      "@time": "0.115",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_FRESHWATER_SWAMP_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T3_WHEAT",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T3_COMFREY",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T3_MEAT",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_SOUP_FISH",
-    "@weight": "10.02",
-    "@nutrition": "1002",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "672",
-      "@time": "0.334",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_FRESHWATER_SWAMP_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T5_TEASEL",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T5_MEAT",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T2_MEAL_SALAD",
-    "@weight": "1.16",
-    "@nutrition": "77",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "56",
-      "@time": "0.257",
-      "craftresource": [
-        {
-          "@uniquename": "T2_BEAN",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "T1_CARROT",
-          "@count": "8"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_SALAD",
-    "@weight": "3.15",
-    "@nutrition": "252",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "168",
-      "@time": "0.84",
-      "craftresource": [
-        {
-          "@uniquename": "T4_TURNIP",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T3_WHEAT",
-          "@count": "24"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_SALAD",
-    "@weight": "7.56",
-    "@nutrition": "756",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "504",
-      "@time": "2.52",
-      "craftresource": [
-        {
-          "@uniquename": "T6_POTATO",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "72"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T2_MEAL_SALAD_FISH",
-    "@weight": "1.59",
-    "@nutrition": "106",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "77",
-      "@time": "0.0353",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_SALTWATER_ALL_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T2_BEAN",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T2_AGARIC",
-          "@count": "1"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_SALAD_FISH",
-    "@weight": "4.31",
-    "@nutrition": "345",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "231",
-      "@time": "0.115",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_SALTWATER_ALL_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T4_TURNIP",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T4_BURDOCK",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T4_MEAT",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_SALAD_FISH",
-    "@weight": "10.02",
-    "@nutrition": "1002",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "672",
-      "@time": "0.334",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_SALTWATER_ALL_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T6_POTATO",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T6_FOXGLOVE",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T6_MEAT",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_PIE",
-    "@weight": "1.17",
-    "@nutrition": "78",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "53",
-      "@time": "0.26",
-      "craftresource": [
-        {
-          "@uniquename": "T3_WHEAT",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T3_FLOUR",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T3_MEAT",
-          "@count": "8"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_PIE",
-    "@weight": "3.33",
-    "@nutrition": "266",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "180",
-      "@time": "0.887",
-      "craftresource": [
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T3_FLOUR",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T5_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T4_MILK",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_PIE",
-    "@weight": "7.99",
-    "@nutrition": "799",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "540",
-      "@time": "2.663",
-      "craftresource": [
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "18"
-        },
-        {
-          "@uniquename": "T3_FLOUR",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T7_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T6_MILK",
-          "@count": "18"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_PIE_FISH",
-    "@weight": "1.8",
-    "@nutrition": "120",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "81",
-      "@time": "0.04",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T3_FLOUR",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T3_EGG",
-          "@count": "1"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_PIE_FISH",
-    "@weight": "4.21",
-    "@nutrition": "337",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "225",
-      "@time": "0.1123",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T5_TEASEL",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T5_EGG",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_PIE_FISH",
-    "@weight": "10.02",
-    "@nutrition": "1002",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "672",
-      "@time": "0.334",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T7_MULLEIN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T7_MEAT",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_OMELETTE",
-    "@weight": "1.16",
-    "@nutrition": "77",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "52",
-      "@time": "0.257",
-      "craftresource": [
-        {
-          "@uniquename": "T3_WHEAT",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T3_MEAT",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "T3_EGG",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_OMELETTE",
-    "@weight": "2.88",
-    "@nutrition": "230",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "155",
-      "@time": "0.767",
-      "craftresource": [
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T5_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T5_EGG",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_OMELETTE",
-    "@weight": "6.9",
-    "@nutrition": "690",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "464",
-      "@time": "2.3",
-      "craftresource": [
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T7_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T5_EGG",
-          "@count": "18"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_OMELETTE_FISH",
-    "@weight": "1.74",
-    "@nutrition": "116",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "77",
-      "@time": "0.0387",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_FRESHWATER_STEPPE_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T3_COMFREY",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T3_EGG",
-          "@count": "1"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_OMELETTE_FISH",
-    "@weight": "4.21",
-    "@nutrition": "337",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "225",
-      "@time": "0.1123",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_FRESHWATER_STEPPE_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T5_TEASEL",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T5_EGG",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_OMELETTE_FISH",
-    "@weight": "10.02",
-    "@nutrition": "1002",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "672",
-      "@time": "0.334",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_FRESHWATER_STEPPE_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T7_MULLEIN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T7_MEAT",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_OMELETTE_AVALON",
-    "@weight": "1.26",
-    "@nutrition": "84",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "52",
-      "@time": "0.28",
-      "craftresource": [
-        {
-          "@uniquename": "T4_MILK",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T3_MEAT",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "T3_EGG",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "10"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_OMELETTE_AVALON",
-    "@weight": "3.15",
-    "@nutrition": "252",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "155",
-      "@time": "0.84",
-      "craftresource": [
-        {
-          "@uniquename": "T6_MILK",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T5_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T5_EGG",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "30"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_OMELETTE_AVALON",
-    "@weight": "7.55",
-    "@nutrition": "755",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "464",
-      "@time": "2.517",
-      "craftresource": [
-        {
-          "@uniquename": "T8_MILK",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T7_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T5_EGG",
-          "@count": "18"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "90"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_STEW",
-    "@weight": "1.37",
-    "@nutrition": "91",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "61",
-      "@time": "0.303",
-      "craftresource": [
-        {
-          "@uniquename": "T4_TURNIP",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_MEAT",
-          "@count": "8"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_STEW",
-    "@weight": "3.4",
-    "@nutrition": "272",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "184",
-      "@time": "0.907",
-      "craftresource": [
-        {
-          "@uniquename": "T6_POTATO",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T6_MEAT",
-          "@count": "24"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T8_MEAL_STEW",
-    "@weight": "8.17",
-    "@nutrition": "817",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "551",
-      "@time": "2.723",
-      "craftresource": [
-        {
-          "@uniquename": "T8_PUMPKIN",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T8_MEAT",
-          "@count": "72"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_STEW_FISH",
-    "@weight": "1.74",
-    "@nutrition": "116",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "77",
-      "@time": "0.0387",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_FRESHWATER_FOREST_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T4_TURNIP",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T4_BURDOCK",
-          "@count": "1"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_STEW_FISH",
-    "@weight": "4.21",
-    "@nutrition": "337",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "225",
-      "@time": "0.1123",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_FRESHWATER_FOREST_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T6_POTATO",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T6_FOXGLOVE",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T6_MILK",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T8_MEAL_STEW_FISH",
-    "@weight": "9.78",
-    "@nutrition": "978",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "652",
-      "@time": "0.326",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_FRESHWATER_FOREST_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T8_PUMPKIN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T8_YARROW",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T8_MILK",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_STEW_AVALON",
-    "@weight": "1.41",
-    "@nutrition": "94",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "58",
-      "@time": "0.313",
-      "craftresource": [
-        {
-          "@uniquename": "T1_CARROT",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_TURNIP",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_MEAT",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "10"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_STEW_AVALON",
-    "@weight": "3.54",
-    "@nutrition": "283",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "176",
-      "@time": "0.943",
-      "craftresource": [
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T6_POTATO",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T6_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "30"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T8_MEAL_STEW_AVALON",
-    "@weight": "8.5",
-    "@nutrition": "850",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "528",
-      "@time": "2.833",
-      "craftresource": [
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T8_PUMPKIN",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T8_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "90"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_SANDWICH",
-    "@weight": "1.22",
-    "@nutrition": "81",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "55",
-      "@time": "0.27",
-      "craftresource": [
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_MEAT",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "T4_BUTTER",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_SANDWICH",
-    "@weight": "3.04",
-    "@nutrition": "243",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "165",
-      "@time": "0.81",
-      "craftresource": [
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T6_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T6_BUTTER",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T8_MEAL_SANDWICH",
-    "@weight": "7.3",
-    "@nutrition": "730",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "494",
-      "@time": "2.433",
-      "craftresource": [
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T8_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T8_BUTTER",
-          "@count": "18"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_SANDWICH_FISH",
-    "@weight": "1.8",
-    "@nutrition": "120",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "81",
-      "@time": "0.04",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T4_TURNIP",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T4_BUTTER",
-          "@count": "1"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_SANDWICH_FISH",
-    "@weight": "4.31",
-    "@nutrition": "345",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "231",
-      "@time": "0.115",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T6_POTATO",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T6_FOXGLOVE",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T6_BUTTER",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T8_MEAL_SANDWICH_FISH",
-    "@weight": "10.02",
-    "@nutrition": "1002",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "672",
-      "@time": "0.334",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T8_PUMPKIN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T8_YARROW",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T8_BUTTER",
-          "@count": "6"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T4_MEAL_SANDWICH_AVALON",
-    "@weight": "1.32",
-    "@nutrition": "88",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "55",
-      "@time": "0.293",
-      "craftresource": [
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_MEAT",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "T4_BUTTER",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "10"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T6_MEAL_SANDWICH_AVALON",
-    "@weight": "3.31",
-    "@nutrition": "265",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "165",
-      "@time": "0.883",
-      "craftresource": [
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T6_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T6_BUTTER",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "30"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T8_MEAL_SANDWICH_AVALON",
-    "@weight": "7.95",
-    "@nutrition": "795",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "494",
-      "@time": "2.65",
-      "craftresource": [
-        {
-          "@uniquename": "T4_BREAD",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T8_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T8_BUTTER",
-          "@count": "18"
-        },
-        {
-          "@uniquename": "QUESTITEM_TOKEN_AVALON",
-          "@maxreturnamount": "0",
-          "@count": "90"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_ROAST",
-    "@weight": "1.31",
-    "@nutrition": "87",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "58",
-      "@time": "0.29",
-      "craftresource": [
-        {
-          "@uniquename": "T3_MEAT",
-          "@count": "8"
-        },
-        {
-          "@uniquename": "T2_BEAN",
-          "@count": "4"
-        },
-        {
-          "@uniquename": "T4_MILK",
-          "@count": "4"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_ROAST",
-    "@weight": "3.28",
-    "@nutrition": "262",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "176",
-      "@time": "0.873",
-      "craftresource": [
-        {
-          "@uniquename": "T5_MEAT",
-          "@count": "24"
-        },
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "12"
-        },
-        {
-          "@uniquename": "T6_MILK",
-          "@count": "12"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_ROAST",
-    "@weight": "7.85",
-    "@nutrition": "785",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@amountcrafted": "10",
-      "@forcesinglecraft": "false",
-      "@craftingfocus": "528",
-      "@time": "2.617",
-      "craftresource": [
-        {
-          "@uniquename": "T7_MEAT",
-          "@count": "72"
-        },
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "36"
-        },
-        {
-          "@uniquename": "T8_MILK",
-          "@count": "36"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T3_MEAL_ROAST_FISH",
-    "@weight": "1.74",
-    "@nutrition": "116",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "77",
-      "@time": "0.0387",
-      "craftresource": [
-        {
-          "@uniquename": "T3_FISH_FRESHWATER_AVALON_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T3_COMFREY",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T4_MILK",
-          "@count": "1"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T5_MEAL_ROAST_FISH",
-    "@weight": "4.21",
-    "@nutrition": "337",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "225",
-      "@time": "0.1123",
-      "craftresource": [
-        {
-          "@uniquename": "T5_FISH_FRESHWATER_AVALON_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T5_CABBAGE",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T5_TEASEL",
-          "@count": "2"
-        },
-        {
-          "@uniquename": "T6_MILK",
-          "@count": "2"
-        }
-      ]
-    }
-  },
-  {
-    "@uniquename": "T7_MEAL_ROAST_FISH",
-    "@weight": "9.78",
-    "@nutrition": "978",
-    "craftingrequirements": {
-      "@silver": "0",
-      "@forcesinglecraft": "false",
-      "@amountcrafted": "1",
-      "@craftingfocus": "652",
-      "@time": "0.326",
-      "craftresource": [
-        {
-          "@uniquename": "T7_FISH_FRESHWATER_AVALON_RARE",
-          "@count": "1"
-        },
-        {
-          "@uniquename": "T7_CORN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T7_MULLEIN",
-          "@count": "6"
-        },
-        {
-          "@uniquename": "T8_MILK",
-          "@count": "6"
-        }
-      ]
-    }
-  }
+	{
+		"@uniquename": "T1_MEAL_GRILLEDFISH",
+		"@weight": "0.3",
+		"@nutrition": "20",
+		"@famevalue": "100",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "1",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "15",
+			"@time": "0.01",
+			"craftresource": {
+				"@uniquename": "T1_FISHCHOPS",
+				"@count": "10"
+			}
+		}
+	},
+	{
+		"@uniquename": "T1_MEAL_SEAWEEDSALAD",
+		"@famevalue": "100",
+		"@weight": "0.08",
+		"@nutrition": "5",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "1",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "4",
+			"@time": "0.01",
+			"craftresource": {
+				"@uniquename": "T1_SEAWEED",
+				"@count": "10"
+			}
+		}
+	},
+	{
+		"@uniquename": "T1_MEAL_SOUP",
+		"@weight": "1.16",
+		"@nutrition": "77",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "56",
+			"@time": "0.257",
+			"craftresource": {
+				"@uniquename": "T1_CARROT",
+				"@count": "16"
+			}
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_SOUP",
+		"@weight": "3.15",
+		"@nutrition": "252",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "168",
+			"@time": "0.84",
+			"craftresource": {
+				"@uniquename": "T3_WHEAT",
+				"@count": "48"
+			}
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_SOUP",
+		"@weight": "7.56",
+		"@nutrition": "756",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "504",
+			"@time": "2.52",
+			"craftresource": {
+				"@uniquename": "T5_CABBAGE",
+				"@count": "144"
+			}
+		}
+	},
+	{
+		"@uniquename": "T1_MEAL_SOUP_FISH",
+		"@weight": "1.59",
+		"@nutrition": "106",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "77",
+			"@time": "0.0353",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_FRESHWATER_SWAMP_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T1_CARROT",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_SOUP_FISH",
+		"@weight": "4.31",
+		"@nutrition": "345",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "231",
+			"@time": "0.115",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_FRESHWATER_SWAMP_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T3_WHEAT",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T3_COMFREY",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T3_MEAT",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_SOUP_FISH",
+		"@weight": "10.02",
+		"@nutrition": "1002",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "672",
+			"@time": "0.334",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_FRESHWATER_SWAMP_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T5_TEASEL",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T5_MEAT",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T2_MEAL_SALAD",
+		"@weight": "1.16",
+		"@nutrition": "77",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "56",
+			"@time": "0.257",
+			"craftresource": [
+				{
+					"@uniquename": "T2_BEAN",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "T1_CARROT",
+					"@count": "8"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_SALAD",
+		"@weight": "3.15",
+		"@nutrition": "252",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "168",
+			"@time": "0.84",
+			"craftresource": [
+				{
+					"@uniquename": "T4_TURNIP",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T3_WHEAT",
+					"@count": "24"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_SALAD",
+		"@weight": "7.56",
+		"@nutrition": "756",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "504",
+			"@time": "2.52",
+			"craftresource": [
+				{
+					"@uniquename": "T6_POTATO",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "72"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T2_MEAL_SALAD_FISH",
+		"@weight": "1.59",
+		"@nutrition": "106",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "77",
+			"@time": "0.0353",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_SALTWATER_ALL_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T2_BEAN",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T2_AGARIC",
+					"@count": "1"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_SALAD_FISH",
+		"@weight": "4.31",
+		"@nutrition": "345",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "231",
+			"@time": "0.115",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_SALTWATER_ALL_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T4_TURNIP",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T4_BURDOCK",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T4_MEAT",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_SALAD_FISH",
+		"@weight": "10.02",
+		"@nutrition": "1002",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "672",
+			"@time": "0.334",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_SALTWATER_ALL_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T6_POTATO",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T6_FOXGLOVE",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T6_MEAT",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_PIE",
+		"@weight": "1.17",
+		"@nutrition": "78",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "53",
+			"@time": "0.26",
+			"craftresource": [
+				{
+					"@uniquename": "T3_WHEAT",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T3_FLOUR",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T3_MEAT",
+					"@count": "8"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_PIE",
+		"@weight": "3.33",
+		"@nutrition": "266",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "180",
+			"@time": "0.887",
+			"craftresource": [
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T3_FLOUR",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T5_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T4_MILK",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_PIE",
+		"@weight": "7.99",
+		"@nutrition": "799",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "540",
+			"@time": "2.663",
+			"craftresource": [
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "18"
+				},
+				{
+					"@uniquename": "T3_FLOUR",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T7_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T6_MILK",
+					"@count": "18"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_PIE_FISH",
+		"@weight": "1.8",
+		"@nutrition": "120",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "81",
+			"@time": "0.04",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T3_FLOUR",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T3_EGG",
+					"@count": "1"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_PIE_FISH",
+		"@weight": "4.21",
+		"@nutrition": "337",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "225",
+			"@time": "0.1123",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T5_TEASEL",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T5_EGG",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_PIE_FISH",
+		"@weight": "10.02",
+		"@nutrition": "1002",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "672",
+			"@time": "0.334",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T7_MULLEIN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T7_MEAT",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_OMELETTE",
+		"@weight": "1.16",
+		"@nutrition": "77",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "52",
+			"@time": "0.257",
+			"craftresource": [
+				{
+					"@uniquename": "T3_WHEAT",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T3_MEAT",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "T3_EGG",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_OMELETTE",
+		"@weight": "2.88",
+		"@nutrition": "230",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "155",
+			"@time": "0.767",
+			"craftresource": [
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T5_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T5_EGG",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_OMELETTE",
+		"@weight": "6.9",
+		"@nutrition": "690",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "464",
+			"@time": "2.3",
+			"craftresource": [
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T7_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T5_EGG",
+					"@count": "18"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_OMELETTE_FISH",
+		"@weight": "1.74",
+		"@nutrition": "116",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "77",
+			"@time": "0.0387",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_FRESHWATER_STEPPE_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T3_COMFREY",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T3_EGG",
+					"@count": "1"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_OMELETTE_FISH",
+		"@weight": "4.21",
+		"@nutrition": "337",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "225",
+			"@time": "0.1123",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_FRESHWATER_STEPPE_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T5_TEASEL",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T5_EGG",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_OMELETTE_FISH",
+		"@weight": "10.02",
+		"@nutrition": "1002",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "672",
+			"@time": "0.334",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_FRESHWATER_STEPPE_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T7_MULLEIN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T7_MEAT",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_OMELETTE_AVALON",
+		"@weight": "1.26",
+		"@nutrition": "84",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "52",
+			"@time": "0.28",
+			"craftresource": [
+				{
+					"@uniquename": "T4_MILK",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T3_MEAT",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "T3_EGG",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "10"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_OMELETTE_AVALON",
+		"@weight": "3.15",
+		"@nutrition": "252",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "155",
+			"@time": "0.84",
+			"craftresource": [
+				{
+					"@uniquename": "T6_MILK",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T5_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T5_EGG",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "30"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_OMELETTE_AVALON",
+		"@weight": "7.55",
+		"@nutrition": "755",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "464",
+			"@time": "2.517",
+			"craftresource": [
+				{
+					"@uniquename": "T8_MILK",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T7_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T5_EGG",
+					"@count": "18"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "90"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_STEW",
+		"@weight": "1.37",
+		"@nutrition": "91",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "61",
+			"@time": "0.303",
+			"craftresource": [
+				{
+					"@uniquename": "T4_TURNIP",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_MEAT",
+					"@count": "8"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_STEW",
+		"@weight": "3.4",
+		"@nutrition": "272",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "184",
+			"@time": "0.907",
+			"craftresource": [
+				{
+					"@uniquename": "T6_POTATO",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T6_MEAT",
+					"@count": "24"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T8_MEAL_STEW",
+		"@weight": "8.17",
+		"@nutrition": "817",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "551",
+			"@time": "2.723",
+			"craftresource": [
+				{
+					"@uniquename": "T8_PUMPKIN",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T8_MEAT",
+					"@count": "72"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_STEW_FISH",
+		"@weight": "1.74",
+		"@nutrition": "116",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "77",
+			"@time": "0.0387",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_FRESHWATER_FOREST_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T4_TURNIP",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T4_BURDOCK",
+					"@count": "1"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_STEW_FISH",
+		"@weight": "4.21",
+		"@nutrition": "337",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "225",
+			"@time": "0.1123",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_FRESHWATER_FOREST_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T6_POTATO",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T6_FOXGLOVE",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T6_MILK",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T8_MEAL_STEW_FISH",
+		"@weight": "9.78",
+		"@nutrition": "978",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "652",
+			"@time": "0.326",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_FRESHWATER_FOREST_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T8_PUMPKIN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T8_YARROW",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T8_MILK",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_STEW_AVALON",
+		"@weight": "1.41",
+		"@nutrition": "94",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "58",
+			"@time": "0.313",
+			"craftresource": [
+				{
+					"@uniquename": "T1_CARROT",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_TURNIP",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_MEAT",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "10"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_STEW_AVALON",
+		"@weight": "3.54",
+		"@nutrition": "283",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "176",
+			"@time": "0.943",
+			"craftresource": [
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T6_POTATO",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T6_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "30"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T8_MEAL_STEW_AVALON",
+		"@weight": "8.5",
+		"@nutrition": "850",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "528",
+			"@time": "2.833",
+			"craftresource": [
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T8_PUMPKIN",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T8_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "90"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_SANDWICH",
+		"@weight": "1.22",
+		"@nutrition": "81",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "55",
+			"@time": "0.27",
+			"craftresource": [
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_MEAT",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "T4_BUTTER",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_SANDWICH",
+		"@weight": "3.04",
+		"@nutrition": "243",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "165",
+			"@time": "0.81",
+			"craftresource": [
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T6_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T6_BUTTER",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T8_MEAL_SANDWICH",
+		"@weight": "7.3",
+		"@nutrition": "730",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "494",
+			"@time": "2.433",
+			"craftresource": [
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T8_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T8_BUTTER",
+					"@count": "18"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_SANDWICH_FISH",
+		"@weight": "1.8",
+		"@nutrition": "120",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "81",
+			"@time": "0.04",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T4_TURNIP",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T4_BUTTER",
+					"@count": "1"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_SANDWICH_FISH",
+		"@weight": "4.31",
+		"@nutrition": "345",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "231",
+			"@time": "0.115",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T6_POTATO",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T6_FOXGLOVE",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T6_BUTTER",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T8_MEAL_SANDWICH_FISH",
+		"@weight": "10.02",
+		"@nutrition": "1002",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "672",
+			"@time": "0.334",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T8_PUMPKIN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T8_YARROW",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T8_BUTTER",
+					"@count": "6"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T4_MEAL_SANDWICH_AVALON",
+		"@weight": "1.32",
+		"@nutrition": "88",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "55",
+			"@time": "0.293",
+			"craftresource": [
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_MEAT",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "T4_BUTTER",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "10"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T6_MEAL_SANDWICH_AVALON",
+		"@weight": "3.31",
+		"@nutrition": "265",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "165",
+			"@time": "0.883",
+			"craftresource": [
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T6_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T6_BUTTER",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "30"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T8_MEAL_SANDWICH_AVALON",
+		"@weight": "7.95",
+		"@nutrition": "795",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "494",
+			"@time": "2.65",
+			"craftresource": [
+				{
+					"@uniquename": "T4_BREAD",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T8_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T8_BUTTER",
+					"@count": "18"
+				},
+				{
+					"@uniquename": "QUESTITEM_TOKEN_AVALON",
+					"@count": "90"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_ROAST",
+		"@weight": "1.31",
+		"@nutrition": "87",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "58",
+			"@time": "0.29",
+			"craftresource": [
+				{
+					"@uniquename": "T3_MEAT",
+					"@count": "8"
+				},
+				{
+					"@uniquename": "T2_BEAN",
+					"@count": "4"
+				},
+				{
+					"@uniquename": "T4_MILK",
+					"@count": "4"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_ROAST",
+		"@weight": "3.28",
+		"@nutrition": "262",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "176",
+			"@time": "0.873",
+			"craftresource": [
+				{
+					"@uniquename": "T5_MEAT",
+					"@count": "24"
+				},
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "12"
+				},
+				{
+					"@uniquename": "T6_MILK",
+					"@count": "12"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_ROAST",
+		"@weight": "7.85",
+		"@nutrition": "785",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@amountcrafted": "10",
+			"@forcesinglecraft": "false",
+			"@craftingfocus": "528",
+			"@time": "2.617",
+			"craftresource": [
+				{
+					"@uniquename": "T7_MEAT",
+					"@count": "72"
+				},
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "36"
+				},
+				{
+					"@uniquename": "T8_MILK",
+					"@count": "36"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T3_MEAL_ROAST_FISH",
+		"@weight": "1.74",
+		"@nutrition": "116",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "77",
+			"@time": "0.0387",
+			"craftresource": [
+				{
+					"@uniquename": "T3_FISH_FRESHWATER_AVALON_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T3_COMFREY",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T4_MILK",
+					"@count": "1"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T5_MEAL_ROAST_FISH",
+		"@weight": "4.21",
+		"@nutrition": "337",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "225",
+			"@time": "0.1123",
+			"craftresource": [
+				{
+					"@uniquename": "T5_FISH_FRESHWATER_AVALON_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T5_CABBAGE",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T5_TEASEL",
+					"@count": "2"
+				},
+				{
+					"@uniquename": "T6_MILK",
+					"@count": "2"
+				}
+			]
+		}
+	},
+	{
+		"@uniquename": "T7_MEAL_ROAST_FISH",
+		"@weight": "9.78",
+		"@nutrition": "978",
+		"craftingrequirements": {
+			"@silver": "0",
+			"@forcesinglecraft": "false",
+			"@amountcrafted": "1",
+			"@craftingfocus": "652",
+			"@time": "0.326",
+			"craftresource": [
+				{
+					"@uniquename": "T7_FISH_FRESHWATER_AVALON_RARE",
+					"@count": "1"
+				},
+				{
+					"@uniquename": "T7_CORN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T7_MULLEIN",
+					"@count": "6"
+				},
+				{
+					"@uniquename": "T8_MILK",
+					"@count": "6"
+				}
+			]
+		}
+	}
 ]
