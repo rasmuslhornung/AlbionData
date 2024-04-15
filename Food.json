@@ -6,10 +6,10 @@
     "@famevalue": "100",
     "craftingrequirements": {
       "@craftingfocus": "15",
-      "craftresource": {
-        "@uniquename": "T1_FISHCHOPS",
-        "@count": "10"
-      }
+      "craftresource": [{
+        "@uniquename0": "T1_FISHCHOPS",
+        "@count0": "10"
+      }]
     }
   },
   {
