@@ -117,20 +117,15 @@
             "@forcesinglecraft": "false",
             "@craftingfocus": "494",
             "@time": "2.433",
-            "craftresource": [
-                {
-                    "@uniquename": "T4_BREAD",
-                    "@count": "36"
-                },
-                {
-                    "@uniquename": "T8_MEAT",
-                    "@count": "72"
-                },
-                {
-                    "@uniquename": "T8_BUTTER",
-                    "@count": "18"
-                }
-            ]
+            "craftresource": {
+                "@uniquename1": "T4_BREAD",
+                "@count1": "36",
+                "@uniquename2": "T8_MEAT",
+                "@count2": "72",
+                "@uniquename3": "T8_BUTTER",
+                "@count3": "18"
+                
+            
         }
-    }
+    }}
 ]
