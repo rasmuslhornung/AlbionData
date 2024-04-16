@@ -1,0 +1,312 @@
+[
+{
+    "@uniquename": "T1_FISHCHOPS",
+    "@itemvalue": "1",
+    "craftingrequirements": [
+        {
+            "@time": "0.01",
+            "@amountcrafted": "1",
+            "craftresource": {
+                "@uniquename": "T1_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.02",
+            "@amountcrafted": "2",
+            "craftresource": {
+                "@uniquename": "T2_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.03",
+            "@amountcrafted": "3",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.04",
+            "@amountcrafted": "4",
+            "craftresource": {
+                "@uniquename": "T4_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.06",
+            "@amountcrafted": "6",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.08",
+            "@amountcrafted": "8",
+            "craftresource": {
+                "@uniquename": "T6_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.01",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.14",
+            "@amountcrafted": "14",
+            "craftresource": {
+                "@uniquename": "T8_FISH_FRESHWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.01",
+            "@amountcrafted": "1",
+            "craftresource": {
+                "@uniquename": "T1_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.02",
+            "@amountcrafted": "2",
+            "craftresource": {
+                "@uniquename": "T2_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.03",
+            "@amountcrafted": "3",
+            "craftresource": {
+                "@uniquename": "T3_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.04",
+            "@amountcrafted": "4",
+            "craftresource": {
+                "@uniquename": "T4_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.06",
+            "@amountcrafted": "6",
+            "craftresource": {
+                "@uniquename": "T5_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.08",
+            "@amountcrafted": "8",
+            "craftresource": {
+                "@uniquename": "T6_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T7_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.14",
+            "@amountcrafted": "14",
+            "craftresource": {
+                "@uniquename": "T8_FISH_SALTWATER_ALL_COMMON",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_FOREST_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_FOREST_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_FOREST_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_STEPPE_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_STEPPE_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_STEPPE_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_SWAMP_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_SWAMP_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_SWAMP_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_FRESHWATER_AVALON_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_FRESHWATER_AVALON_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_FRESHWATER_AVALON_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.1",
+            "@amountcrafted": "10",
+            "craftresource": {
+                "@uniquename": "T3_FISH_SALTWATER_ALL_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.2",
+            "@amountcrafted": "20",
+            "craftresource": {
+                "@uniquename": "T5_FISH_SALTWATER_ALL_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "0.3",
+            "@amountcrafted": "30",
+            "craftresource": {
+                "@uniquename": "T7_FISH_SALTWATER_ALL_RARE",
+                "@count": "1"
+            }
+        },
+        {
+            "@time": "2.0",
+            "@amountcrafted": "200",
+            "craftresource": {
+                "@uniquename": "T8_FISH_SALTWATER_ALL_BOSS_SHARK",
+                "@count": "1"
+            }
+        }
+    ]
+  }
+]
