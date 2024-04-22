@@ -3084,4 +3084,179 @@
       }
     ]
   }
+}					},
+						{
+							"@uniquename": "T5_PLANKS",
+							"@count": "150"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_ALTAR_MAGE",
+				"@tier": "6",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "1200"
+						},
+						{
+							"@uniquename": "T6_PLANKS",
+							"@count": "150"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_ALTAR_MAGE",
+				"@tier": "7",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "2400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "2400"
+						},
+						{
+							"@uniquename": "T7_PLANKS",
+							"@count": "150"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_ALTAR_MAGE",
+				"@tier": "8",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "4800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "4800"
+						},
+						{
+							"@uniquename": "T8_PLANKS",
+							"@count": "150"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			}
+		],
+		"farmbuilding": [
+			{
+				"@uniquename": "T1_FARMHOUSE",
+				"@placecost": "50",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "15"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "15"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T1_HERBGARDEN",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T2_PLANKS",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "25"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T1_PASTURE",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "30"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "30"
+						},
+						{
+							"@uniquename": "T3_PLANKS",
+							"@count": "30"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "30"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T1_KENNEL",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T6_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T6_ROCK",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T6_METALBAR",
+							"@count": "10"
+						}
+					]
+				}
+			}
+		]
+	}
 }
