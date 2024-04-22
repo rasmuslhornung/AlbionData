@@ -1,3090 +1,2482 @@
 {
-  "buildings": {
-    "craftbuilding": [
-      {
-        "@uniquename": "T2_WEAVINGMILL_TUTORIAL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        }
-      },
-      {
-        "@uniquename": "T2_TANNERY_TUTORIAL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        }
-      },
-      {
-        "@uniquename": "T2_HUNTERSLODGE_TUTORIAL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        }
-      },
-      {
-        "@uniquename": "T1_FORGE_TUTORIAL",
-        "@tier": "1",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "100"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_FORGE_TUTORIAL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        }
-      },
-      {
-        "@uniquename": "T2_CARPENTERSWORKSHOP_TUTORIAL",
-        "@tier": "1",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_TOOLMAKER_TUTORIAL",
-        "@tier": "1",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        }
-      },
-      {
-        "@uniquename": "T2_MAGICITEMS_TUTORIAL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        }
-      },
-      {
-        "@uniquename": "T2_SMELTER_TUTORIAL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "MISTS_GREEN_CITY_TRADER",
-        "@tier": "8",
-        "@placecost": "0",
-        "@isshop": "true"
-      },
-      {
-        "@uniquename": "NDA_TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_TESTFORGE",
-        "@tile": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "0",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "18"
-            },
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "24"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "FARMING_MERCHANT",
-        "@tier": "1",
-        "@placecost": "0",
-        "@isshop": "true"
-      },
-      {
-        "@uniquename": "ARENA_AGENCY",
-        "@tier": "1",
-        "@placecost": "0",
-        "@isshop": "true"
-      },
-      {
-        "@uniquename": "VANITY_STORE",
-        "@tier": "1",
-        "@placecost": "0",
-        "@isshop": "true"
-      },
-      {
-        "@uniquename": "T1_FORGE",
-        "@tier": "1",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "100"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_FORGE",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_FORGE",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_FORGE",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_FORGE",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_FORGE",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_FORGE",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_FORGE",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_HUNTERSLODGE",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_HUNTERSLODGE",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_HUNTERSLODGE",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_HUNTERSLODGE",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_HUNTERSLODGE",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_HUNTERSLODGE",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_HUNTERSLODGE",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_MAGICITEMS",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_MAGICITEMS",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_MAGICITEMS",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_MAGICITEMS",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_MAGICITEMS",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_MAGICITEMS",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_MAGICITEMS",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T6_MEAL_SANDWICH",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_SMELTER",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_SMELTER",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_SMELTER",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_SMELTER",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_SMELTER",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_SMELTER",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_SMELTER",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_CARPENTERSWORKSHOP",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_CARPENTERSWORKSHOP",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_CARPENTERSWORKSHOP",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_CARPENTERSWORKSHOP",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_CARPENTERSWORKSHOP",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_CARPENTERSWORKSHOP",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_CARPENTERSWORKSHOP",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T1_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_STONEMASONRY",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T2_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_STONEMASONRY",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T3_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_STONEMASONRY",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T4_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_STONEMASONRY",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T5_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_STONEMASONRY",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T6_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_STONEMASONRY",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T7_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_STONEMASONRY",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T2_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T8_ROCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_TANNERY",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_TANNERY",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_TANNERY",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_TANNERY",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_TANNERY",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_TANNERY",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_TANNERY",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_WEAVINGMILL",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "25"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_WEAVINGMILL",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_WEAVINGMILL",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_WEAVINGMILL",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_WEAVINGMILL",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_WEAVINGMILL",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_WEAVINGMILL",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T3_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_BUTCHER",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_BUTCHER",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_BUTCHER",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_BUTCHER",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_BUTCHER",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_BUTCHER",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_SOUP",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T1_MILL",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_COOK",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_COOK",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_COOK",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_COOK",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_COOK",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_COOK",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_COOK",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T5_MEAL_PIE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_ALCHEMIST",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_ALCHEMIST",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_ALCHEMIST",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_ALCHEMIST",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_ALCHEMIST",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_ALCHEMIST",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_ALCHEMIST",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T7_MEAL_OMELETTE",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T2_TOOLMAKER",
-        "@tier": "2",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "50"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "5"
-            },
-            {
-              "@uniquename": "T2_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_TOOLMAKER",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_TOOLMAKER",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_TOOLMAKER",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_TOOLMAKER",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_TOOLMAKER",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_TOOLMAKER",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_SALAD",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T3_STABLE",
-        "@tier": "3",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "10"
-            },
-            {
-              "@uniquename": "T3_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T4_STABLE",
-        "@tier": "4",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "20"
-            },
-            {
-              "@uniquename": "T4_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_STABLE",
-        "@tier": "5",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "40"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_STABLE",
-        "@tier": "6",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "80"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_STABLE",
-        "@tier": "7",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "160"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_STABLE",
-        "@tier": "8",
-        "@placecost": "100",
-        "favoritedish": {
-          "dish": {
-            "@item": "T4_MEAL_STEW",
-            "@bonus": "1"
-          }
-        },
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "320"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "300"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "MOB_SETS_ROYAL_AGENT_HOUSE_COMBAT_01",
-        "@tier": "4",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "MOB_SETS_ROYAL_AGENT_HOUSE_FORAGER_01",
-        "@tier": "4",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "MOB_SETS_ROYAL_AGENT_HOUSE_STEWARD_01",
-        "@tier": "4",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "MOB_SETS_UNDEAD_AGENT_HOUSE_COMBAT_T5",
-        "@tier": "5",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "MOB_SETS_UNDEAD_AGENT_HOUSE_COMBAT_T6",
-        "@tier": "6",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "MOB_SETS_UNDEAD_AGENT_HOUSE_COMBAT_T7",
-        "@tier": "7",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "MOB_SETS_UNDEAD_AGENT_HOUSE_COMBAT_T8",
-        "@tier": "8",
-        "@placecost": "100"
-      },
-      {
-        "@uniquename": "T5_ALTAR_WARRIOR",
-        "@tier": "5",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T5_PLANKS",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "200"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_ALTAR_WARRIOR",
-        "@tier": "6",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T6_PLANKS",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "200"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_ALTAR_WARRIOR",
-        "@tier": "7",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T7_PLANKS",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "200"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_ALTAR_WARRIOR",
-        "@tier": "8",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "6400"
-            },
-            {
-              "@uniquename": "T8_PLANKS",
-              "@count": "100"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "200"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_ALTAR_HUNTER",
-        "@tier": "5",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "400"
-            },
-            {
-              "@uniquename": "T5_PLANKS",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "100"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_ALTAR_HUNTER",
-        "@tier": "6",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T6_PLANKS",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "100"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_ALTAR_HUNTER",
-        "@tier": "7",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "800"
-            },
-            {
-              "@uniquename": "T6_PLANKS",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "100"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_ALTAR_HUNTER",
-        "@tier": "8",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "3200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "1600"
-            },
-            {
-              "@uniquename": "T6_PLANKS",
-              "@count": "200"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "100"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T5_ALTAR_MAGE",
-        "@tier": "5",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "600"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "600"
-            },
-            {
-              "@uniquename": "T5_PLANKS",
-              "@count": "150"
-            },
-            {
-              "@uniquename": "T5_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T6_ALTAR_MAGE",
-        "@tier": "6",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "1200"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "1200"
-            },
-            {
-              "@uniquename": "T6_PLANKS",
-              "@count": "150"
-            },
-            {
-              "@uniquename": "T6_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T7_ALTAR_MAGE",
-        "@tier": "7",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "2400"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "2400"
-            },
-            {
-              "@uniquename": "T7_PLANKS",
-              "@count": "150"
-            },
-            {
-              "@uniquename": "T7_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      },
-      {
-        "@uniquename": "T8_ALTAR_MAGE",
-        "@tier": "8",
-        "@placecost": "100",
-        "craftingrequirements": {
-          "craftresource": [
-            {
-              "@uniquename": "T1_WOOD",
-              "@count": "4800"
-            },
-            {
-              "@uniquename": "T1_ROCK",
-              "@count": "4800"
-            },
-            {
-              "@uniquename": "T8_PLANKS",
-              "@count": "150"
-            },
-            {
-              "@uniquename": "T8_STONEBLOCK",
-              "@count": "150"
-            }
-          ]
-        }
-      }
-    ]
-  }
-}					},
+	"buildings": {
+		"craftbuilding": [
+			{
+				"@uniquename": "T1_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "100"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_FORGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_HUNTERSLODGE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_MAGICITEMS",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T6_MEAL_SANDWICH"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "3"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_SMELTER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "3"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_CARPENTERSWORKSHOP",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T1_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T2_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T3_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T4_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T5_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T6_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T7_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_STONEMASONRY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T2_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T8_ROCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "3"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_TANNERY",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "25"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "3"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_WEAVINGMILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T3_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_BUTCHER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_BUTCHER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_BUTCHER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_BUTCHER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_BUTCHER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_BUTCHER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_SOUP"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T1_MILL",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "150"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_COOK",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T5_MEAL_PIE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_ALCHEMIST",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T7_MEAL_OMELETTE"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T2_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "50"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "5"
+						},
+						{
+							"@uniquename": "T2_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_TOOLMAKER",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_SALAD"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T3_STABLE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "10"
+						},
+						{
+							"@uniquename": "T3_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T4_STABLE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "20"
+						},
+						{
+							"@uniquename": "T4_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_STABLE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "40"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_STABLE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "80"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_STABLE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "160"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_STABLE",
+				"@placecost": "100",
+				"favoritedish": {
+					"dish": {
+						"@item": "T4_MEAL_STEW"
+					}
+				},
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "320"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "300"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_ALTAR_WARRIOR",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T5_PLANKS",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "200"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_ALTAR_WARRIOR",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T6_PLANKS",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "200"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_ALTAR_WARRIOR",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T7_PLANKS",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T7_STONEBLOCK",
+							"@count": "200"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_ALTAR_WARRIOR",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "6400"
+						},
+						{
+							"@uniquename": "T8_PLANKS",
+							"@count": "100"
+						},
+						{
+							"@uniquename": "T8_STONEBLOCK",
+							"@count": "200"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_ALTAR_HUNTER",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "400"
+						},
+						{
+							"@uniquename": "T5_PLANKS",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T5_STONEBLOCK",
+							"@count": "100"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T6_ALTAR_HUNTER",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T6_PLANKS",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "100"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T7_ALTAR_HUNTER",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "800"
+						},
+						{
+							"@uniquename": "T6_PLANKS",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "100"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T8_ALTAR_HUNTER",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "3200"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "1600"
+						},
+						{
+							"@uniquename": "T6_PLANKS",
+							"@count": "200"
+						},
+						{
+							"@uniquename": "T6_STONEBLOCK",
+							"@count": "100"
+						}
+					]
+				}
+			},
+			{
+				"@uniquename": "T5_ALTAR_MAGE",
+				"@placecost": "100",
+				"craftingrequirements": {
+					"craftresource": [
+						{
+							"@uniquename": "T1_WOOD",
+							"@count": "600"
+						},
+						{
+							"@uniquename": "T1_ROCK",
+							"@count": "600"
+						},
 						{
 							"@uniquename": "T5_PLANKS",
 							"@count": "150"
@@ -3098,7 +2490,6 @@
 			},
 			{
 				"@uniquename": "T6_ALTAR_MAGE",
-				"@tier": "6",
 				"@placecost": "100",
 				"craftingrequirements": {
 					"craftresource": [
@@ -3123,7 +2514,6 @@
 			},
 			{
 				"@uniquename": "T7_ALTAR_MAGE",
-				"@tier": "7",
 				"@placecost": "100",
 				"craftingrequirements": {
 					"craftresource": [
@@ -3148,7 +2538,6 @@
 			},
 			{
 				"@uniquename": "T8_ALTAR_MAGE",
-				"@tier": "8",
 				"@placecost": "100",
 				"craftingrequirements": {
 					"craftresource": [
